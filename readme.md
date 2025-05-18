@@ -25,7 +25,7 @@ A full-stack web application to manage apartments, residents, complaints, and bo
 - Rent tracking and dummy payments
 - Clean React UI with role-based views
 
-## 🏗️ Folder Structure
+##  Folder Structure
 
 ```bash
 ├── backend/
